@@ -1,0 +1,38 @@
+name: build
+on: [create]
+jobs:
+  run:
+    runs-on: Linux
+    strategy:
+      matrix:
+        php:
+          - '8.0'
+          - '7.4'
+          - '7.3'
+          - '7.2'
+          - '7.1'
+    name: PHP ${{ matrix.php }} build
+    env:
+      PHP_CS_FIXER_IGNORE_ENV: 1
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          ssh-key: ${{ secrets.DEPLOY_KEY }}
+          submodules: false
+
+      - name: Set env
+        run: echo "TAG=${GITHUB_REF#refs/*/}" >> $GITHUB_ENV
+
+      - name: Build
+        env:
+          API_ID: ${{ secrets.API_ID }}
+          API_HASH: ${{ secrets.API_HASH }}
+          BOT_TOKEN: ${{ secrets.BOT_TOKEN }}
+          TOKEN: ${{ secrets.BOT_TOKEN }}
+          DEST: ${{ secrets.DEST }}
+          DESTINATIONS: ${{ secrets.DESTINATIONS }}
+          SSH_KEY: ${{ secrets.SSH_KEY }}
+          PHP_VERSION: ${{ matrix.php }}
+        run: |
+          tests/makephar.sh

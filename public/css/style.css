@@ -1,0 +1,39 @@
+body {
+    font-family: Arial;
+    font-size: 0.9em;
+    color: #232323;
+}
+
+#subscribe {
+    background: #80c26c;
+    border: #529b3c 1px solid;
+    padding: 8px 30px;
+    border-radius: 2px;
+    font-size: 1em;
+    width: 100%;
+}
+
+.product-plan-tile {
+    width: 330px;
+    border: #d0d0d0 1px solid;
+    padding: 40px;
+    text-align: center;
+    border-radius: 2px;
+    margin: 40px auto;
+}
+
+.product-plan-tile h2 {
+    padding: 0px;
+    margin: 0px 0px 10px 0px;
+}
+
+.plan-pricing {
+    padding: 15px 0px 28px;
+    font-size: 1.2em;
+}
+
+.subscription-response {
+    max-width: 700px;
+    margin: 100px auto;
+    text-align: center;
+}
