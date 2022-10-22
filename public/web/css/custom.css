@@ -494,6 +494,14 @@ background-image: linear-gradient(to right bottom, #f8b819, #f4b82c, #efb83a, #e
 .info-img img {
     width: 100%;
 }
+.brains .hidden-text {
+    display: block;
+    height: 256px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-family: 'Poppins';
+}
 .info-txt button {
     text-transform: capitalize;
     font-weight: 500;
@@ -533,19 +541,26 @@ background-image: linear-gradient(to right bottom, #f8b819, #f4b82c, #efb83a, #e
     background-color: #ffffff;
     text-align: center;
     padding: 20px;
+    border: 4px solid #576a82;
+    border-radius: 20px 0;
+    transition: all 1s;
 }
 
+.brains .leader-txt:hover{
+border-radius: 0px 20px;
+}
 .brains .leader-txt h6 {
     color: #263e62;
     margin: 0;
-    font-size: 20px;
+    font-size: 24px;
 }
 
 .brains .leader-txt p {
-    text-transform: capitalize;
+       text-transform: capitalize;
     color: #263e62;
-    margin-bottom: 5px;
-    font-size: 14px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    font-weight: 500;
 }
 
 .brains .leader-txt ul {

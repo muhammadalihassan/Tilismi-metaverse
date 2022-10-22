@@ -407,7 +407,7 @@
 
 
 
-   <div class="section scrollify" id="brains" data-section-name="brains">
+   <!-- <div class="section scrollify" id="brains" data-section-name="brains">
       <div class="brains">
          <div class="container">
             <div class="leader-main">
@@ -595,6 +595,195 @@
             </div>
          </div>
       </div>
+   </div> -->
+   <div class="section scrollify" id="brains" data-section-name="brains">
+      <div class="brains">
+         <div class="container">
+            <div class="leader-main">
+               <h4>the brains</h4>
+               <div class="brain-slider ani-slider">
+                  <div class="item">
+                     <div class="leader-slide">
+                        <div class="leader-txt">
+                           <h6>zubair chishti</h6>
+                           <p>product designer</p>
+                           <span class="hidden-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet</span>
+                           <ul>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-facebook" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-twitter" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-google-plus" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                           </ul>
+                           
+                        </div>
+                     </div>
+                  </div>
+                  <div class="item">
+                     <div class="leader-slide">
+                        <div class="leader-txt">
+                           <h6>Irtiza khan</h6>
+                           <p>product designer</p>
+                           <span class="hidden-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet</span>
+                           <ul>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-facebook" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-twitter" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-google-plus" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                           </ul>
+                           
+                        </div>
+                     </div>
+                  </div>
+                  <div class="item">
+                     <div class="leader-slide">
+                        <div class="leader-txt">
+                           <h6>ali javed</h6>
+                           <p>product designer</p>
+                           <span class="hidden-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet</span>
+                           <ul>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-facebook" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-twitter" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-google-plus" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                           </ul>
+                           
+                        </div>
+                     </div>
+                  </div>
+                  <div class="item">
+                     <div class="leader-slide">
+                        <div class="leader-txt">
+                           <h6>fawad khan</h6>
+                           <p>product designer</p>
+                           <span class="hidden-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet</span>
+                           <ul>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-facebook" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-twitter" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-google-plus" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                           </ul>
+                          
+                        </div>
+                     </div>
+                  </div>
+                  <div class="item">
+                     <div class="leader-slide">
+                        <div class="leader-txt">
+                           <h6>Irtiza khan</h6>
+                           <p>product designer</p>
+                           <span class="hidden-text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit ametLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Lorem ipsum dolor sit amet</span>
+                           <ul>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-facebook" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-twitter" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-google-plus" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                              <li>
+                                 <a href="#">
+                                 <i class="fa fa-linkedin" aria-hidden="true"></i>
+                                 </a>
+                              </li>
+                           </ul>
+                           
+                        </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="leaders-info-main">
+               <div class="row">
+                  <div class="col-md-3">
+                     <div class="info-img">
+                        <img src="<?php echo e(asset('web/images/l1.jpg')); ?>" align="leader">
+                     </div>
+                  </div>
+                  <div class="col-md-9">
+                     <div class="info-txt">
+                        <h4></h4>
+                        <h6></h6>
+                        <p></p>
+                        <ul></ul>
+                        <button class="back-leaders stan-btn">back</button>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            </div>
+         </div>
+      </div>
    </div>
    <div class="section scrollify craft" id="craft" data-section-name="craft">
       <div class="container">
@@ -664,7 +853,7 @@
                         <div class="knowledge-img">
                            <img src="<?php echo e(asset('web/images/globe.png')); ?>" alt="news">
                         </div>
-                        <h6>the global <br>metaverse council</h6>
+                        <h6>the metaverse <br> council</h6>
                      </div>
                   </a>
                </div>
